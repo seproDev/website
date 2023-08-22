@@ -58,6 +58,21 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
+  homeInfoParams:
+    Title: "Hey, I'm sepro \U0001F9A5"
+    Content: >
+      On this site you can find some of my projects and posts about random stuff I find interesting.
+      Many of these posts are derived from conversations I had with friends on Discord, but given a more permanent home here.
+      If you have any questions or suggestions, feel free to reach out.
+
+  socialIcons: # optional
+    - name: "email"
+      url: "mailto:contact@sepr0.com"
+    - name: "github"
+      url: "https://github.com/seproDev"
+    - name: "discord"
+      url: "discord://-/users/529816631191404545"
+
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
