@@ -73,6 +73,8 @@ params:
     - name: "discord"
       url: "discord://-/users/529816631191404545"
 
+  schema:
+    sameAs: ["https://github.com/seproDev"]
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
